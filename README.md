@@ -9,6 +9,9 @@ banking app to initiate a payment.
 Feel free to change the "default:" values in lines number 8,9,10
 or use this to donate for all my projects :-D
 
+Example for this:
+![Example image to sponsor this project](Example_QR_code_to_donate.svg)
+
 ## Installation
 
 Install python (not described here) and the needed python libraries:
