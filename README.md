@@ -9,8 +9,8 @@ banking app to initiate a payment.
 Feel free to change the "default:" values in lines number 8,9,10
 or use this to donate for all my projects :-D
 
-Example for this:
-![Example image to sponsor this project](Example_QR_code_to_donate.svg)
+Example for this:  
+<img src="Example_QR_code_to_donate.svg" alt="Example image to sponsor this project" title="Example image to sponsor this project" width="20%" />
 
 ## Installation
 
